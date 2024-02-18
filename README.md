@@ -36,17 +36,17 @@ Hlavní program najdete v souboru ***movieapp.py***
 
 Ostatní soubory můžeme nazvat **databázemi**:
 
-- ***seznam_uzivatelu*** - Zde jsou uloženi již, pro program, známí uživatelé. Pokud chcete, založte si zde účet se svým jménem a doplňte si **Oblíbené FILMY a ŽÁNRY**
+- ***seznam_uzivatelu.py*** - Zde jsou uloženi, pro program, známí uživatelé. Pokud chcete, založte si zde účet se svým jménem a doplňte si **Oblíbené FILMY a ŽÁNRY**
 
-- ***seznam_filmu*** - V tomto souboru naleznete všechny filmy v podobě slovníků + informace o nich
+- ***seznam_filmu.py*** - V tomto souboru naleznete všechny filmy v podobě slovníků + informace o nich
 
-- ***filmove_maratony*** - Soubor se spoustou filmových sérií, pro správnou funkčnost programu je zde také celková stopáž a jednotlivé filmy ke každé sérii
+- ***filmove_maratony.py*** - Soubor se spoustou filmových sérií, pro správnou funkčnost programu je zde také celková stopáž a jednotlivé filmy ke každé sérii
 
 > [!TIP]
 > V kódu máte komentáře, které by Vám měli objasnit funkčnost programu jako takového.
 
 > [!CAUTION]
-> Správně čtěte pokyny při používání programu. Při výběru služeb dávejte pozor na **DIAKRITIKU**
+> Správně čtěte pokyny při používání programu. Při výběru služeb dávejte pozor na **DIAKRITIKU**.
 
 > [!NOTE]
 > Příklad výstupního textového souboru s vygenerovaným hodnocením a oblíbenými filmy Vám zde přikládám.
