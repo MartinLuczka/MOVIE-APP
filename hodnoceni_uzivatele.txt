@@ -1,0 +1,15 @@
+MOVIE APP
+=================================
+Hodnocení uživatele: Martin
+==============================
+The Shawshank Redemption: 95/100
+Forrest Gump: 88/100
+Pulp Fiction: 93/100
+Inception: 89/100
+Saving Private Ryan: 90/100
+==============================
+Oblíbené filmy uživatele:
+==============================
+The Dark Knight
+Full Metal Jacket
+12 Angry Men

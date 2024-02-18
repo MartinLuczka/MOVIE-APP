@@ -33,7 +33,7 @@ uzivatel = input("Zadejte zde své uživatelské jméno:\n") # přihlášení, p
 
 if not uzivatel in uzivatele:
     print(odsazeni)
-    print("Nejste zde zaregistrován.")
+    print("Nejste zde zaregistrován.\n")
     volba_registrace = input("Chcete se zaregistrovat? (ANO/NE)\n").lower() # Možnost registrace nového uživatele
 
     if volba_registrace == "ne":
